@@ -8,7 +8,7 @@ Template for simple one page html, with elegant style of TailwindCSS and powerfu
 - [x] PostCSS
 - [x] TailwindCSS
 - [x] CSS nesting support - use with css variables to replace postprocessor
-- [x] Open box Typescript support\*
+- [x] Out of box Typescript support\*
 - [x] Rapid development experience brought by Vite
 
 \* Only in .ts files, not in html/AlpineJS unfortunately
