@@ -11,7 +11,7 @@ Template for simple one page html, with elegant style of TailwindCSS and powerfu
 - [x] Open box Typescript support\*
 - [x] Rapid development experience brought by Vite
 
-\* Only in .ts files, no in html/AlpineJS unfortunately
+\* Only in .ts files, not in html/AlpineJS unfortunately
 
 ## Usage
 
