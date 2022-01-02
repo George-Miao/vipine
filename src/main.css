@@ -2,8 +2,19 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  font-smooth: grayscale;
-  text-align: center;
+@layer base {
+  #app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    font-smooth: grayscale;
+    text-align: center;
+
+    main {
+      p {
+        @apply text-gray-700;
+      }
+      code {
+        @apply text-sm text-red-700;
+      }
+    }
+  }
 }
